@@ -1,3 +1,4 @@
+
 # Videomaker_python
 This python script takes in the output of the "LiDAR_multicam_multithread" application's output pictures, and makes a video from them. \
 The output is a 2x2 grid of videos. \
@@ -13,6 +14,6 @@ For windows: https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmp
 \
 \
 \
-__A kind warning:__ \
-__This code has been tested and working, but it was created by an unknown student, probbably vibecodding at the university based on the comments in the code.__ \
+_A kind warning:_ \
+_This code has been tested and working, but it was created by an unknown student, probbably vibecodding at the university based on the comments in the code._ \
 Use it at you own risk.
